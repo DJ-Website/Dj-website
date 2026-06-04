@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fab79ae-c9cf-4205-a916-df346299302e" name="Changes" comment="final changes for design">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/services/impl/EmailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/services/impl/EmailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,28 +42,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build Djs-Site.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.DjAppRunner.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/Djs-Site/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "F:/Djs-Site/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build Djs-Site.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DjAppRunner.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Djs-Site/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/Djs-Site/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Djs-Site\src\main\resources" />
@@ -77,6 +76,9 @@
   </component>
   <component name="RunManager">
     <configuration name="DjAppRunner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="RESEND_API_KEY" value="re_Rsafg2BN_FBAAjezUiLxhRugLJRN2WZ5z" />
+      </envs>
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="Djs-Site.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.DjAppRunner" />
@@ -112,6 +114,12 @@
       <workItem from="1780497478016" duration="4378000" />
       <workItem from="1780513647204" duration="2778000" />
       <workItem from="1780578692189" duration="16158000" />
+      <workItem from="1780601456157" duration="1953000" />
+      <workItem from="1780603963094" duration="36000" />
+      <workItem from="1780604007248" duration="4000" />
+      <workItem from="1780604098694" duration="1188000" />
+      <workItem from="1780605516907" duration="111000" />
+      <workItem from="1780606108644" duration="1527000" />
     </task>
     <task id="LOCAL-00001" summary="connect controllers and polish UI (footer, merch badge, paths)">
       <option name="closed" value="true" />
