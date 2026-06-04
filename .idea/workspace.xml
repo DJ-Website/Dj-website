@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,7 @@
       <workItem from="1777596040229" duration="1000" />
       <workItem from="1780497478016" duration="4378000" />
       <workItem from="1780513647204" duration="2778000" />
-      <workItem from="1780578692189" duration="15039000" />
+      <workItem from="1780578692189" duration="15341000" />
     </task>
     <task id="LOCAL-00001" summary="connect controllers and polish UI (footer, merch badge, paths)">
       <option name="closed" value="true" />
