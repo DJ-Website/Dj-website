@@ -400,7 +400,7 @@ ol {
 }
 
 .header__menu ul li:hover .dropdown {
-	top: 82px;
+	top: 30px;
 	opacity: 1;
 	visibility: visible;
 }
@@ -1383,13 +1383,17 @@ ol {
 
 .team__item {
 	text-align: center;
-	margin-bottom: 30px;
+
 }
 
 .team__item img {
-	min-width: 100%;
-	border-radius: 20px;
-	margin-bottom: 30px;
+	width: 360px !important;
+	height: 360px !important;
+
+	object-fit: cover;
+	object-position: center;
+	border-radius: 10px;
+	display: block;
 }
 
 .team__item h4 {
